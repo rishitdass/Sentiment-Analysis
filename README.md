@@ -34,5 +34,13 @@ In addition to the above features, the project utilizes the following:
 
 - **LSTM**  i have used Long Short term memory networks which are a type of RNN.
 
+## Reposiory Content
+
+The following files are included in the repository:
+1. LSTM_sentiment_model.h5 : The LSTM trained model file.
+2. Logistic_sentiment_model.pkl : The train logistic regression model pcikle file.
+3. tokenizer_config.json : The tokenizer text map that was generated for LSTM.
+4. sentiment-analysis.ipynb : Jupytor Notebook when preprocessing and model training has been done
+
 ## Dataset
 [https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews/data](https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews/data)
