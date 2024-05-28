@@ -33,6 +33,16 @@ In addition to the above features, the project utilizes the following:
 - **TF-IDF** used TF-IDF vectorizer for feature extraction.
 
 - **LSTM**  i have used Long Short term memory networks which are a type of RNN.
+- **Text Summarizer**
+ In addition to sentiment analysis, this project incorporates a text summarization feature. The text summarizer extracts the most important information from lengthy reviews, generating concise summaries without losing key details.
+
+### Features
+
+- **Automatic Summarization**: The text summarizer intelligently selects essential sentences from the input text, condensing it into a shorter form while retaining the original meaning.
+
+- **Enhanced Readability**: Summaries are crafted to be easily understandable, making them ideal for quick insights or decision-making.
+
+- **Flexibility**: Users can adjust parameters to customize the length and style of the generated summaries, tailoring them to their preferences.
 
 ## Reposiory Content
 
