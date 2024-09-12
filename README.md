@@ -4,6 +4,9 @@
 
 The Amazon Review Sentiment Analysis project aims to analyze sentiment from Amazon reviews using various machine learning models inclusing SVMs,random forest,Decision trees,GaussianNB and MultiNomialNB. Through experimentation, it has been found that Logistic Regression and LSTM deep learning models provide the best performance, achieving approximately 85% and 87% accuracy respectively. Since The dataset was huge i have utilied 100,000 rows of the Dataset due to resource restraints and to optimize training time.
 
+## Project Demonstration
+
+https://www.linkedin.com/feed/update/urn:li:activity:7201068781148803072/
 ## Initial Development Phase
 
 During the initial development phase, various machine learning models were evaluated for sentiment analysis on Amazon reviews. The following table shows the performance metrics of different models:
